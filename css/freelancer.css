@@ -221,6 +221,11 @@ header.masthead {
     font-size: 2rem; }
   .project-modal img {
     border: 5px solid #2C3E50;
+    max-height: 550px;
+  }
+  .project-modal video {
+    border: 5px solid #2C3E50;
+    max-height: 550px;
   }
 
 @media (min-width: 768px) {
