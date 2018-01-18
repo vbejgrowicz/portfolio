@@ -178,6 +178,8 @@ header.masthead {
 
 .project {
   margin-bottom: -15px; }
+  .project .row {
+    justify-content: center; }
   .project .project-item {
     position: relative;
     display: block;
