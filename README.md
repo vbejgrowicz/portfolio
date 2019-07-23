@@ -1,3 +1,3 @@
 # Vivian Bejgrowicz
 
-Check out my [Portfolio](http://www.vivianbejgrowicz.com)
+Check out my [Portfolio](https://vbejgrowicz.github.io/)
